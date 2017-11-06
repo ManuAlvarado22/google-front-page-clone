@@ -148,11 +148,15 @@ footer {
   padding: .8em;
 }
 
-.footer-nav1 a, .footer-nav2 a{
+.footer-nav1 a, .footer-nav2 a {
   font-size: .8em;
   color: #545454;
   text-decoration: none;
   text-transform: capitalize;
+}
+
+.footer-nav1 a, .footer-nav2 a:hover {
+  text-decoration: underline;     
 }
 
 .footer-nav2 {
