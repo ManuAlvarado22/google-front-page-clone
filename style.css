@@ -155,7 +155,7 @@ footer {
   text-transform: capitalize;
 }
 
-.footer-nav1 a:hover, .footer-nav2 a:hover {
+.footer-nav2 a:hover, .footer-nav1 a:hover {
   text-decoration: underline;
 }
 
